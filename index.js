@@ -7,3 +7,4 @@ nothinBtn.addEventListener('click', () => {
     last.innerHTML += `AHHHHHHHHH I LIEDDDDDDD`
 })
 console.log(1 + 2)
+console.log('fkdlasfjdaslkjfkljlklkjlkj')
