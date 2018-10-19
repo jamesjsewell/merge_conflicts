@@ -12,4 +12,6 @@ nothinBtn.addEventListener('click', () => {
 console.log('foo')
 console.log('bar')
 console.log('baz')
+console.log('bar')
+console.log('foo')
 console.log(1 + 2)
