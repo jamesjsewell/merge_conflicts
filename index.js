@@ -1,4 +1,4 @@
-console.log('sup')
+console.log('anything')
 let list = document.getElementById('list')
 let last = document.getElementById('last')
 let nothinBtn = document.getElementById('nothing')
